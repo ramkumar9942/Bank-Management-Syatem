@@ -1,0 +1,1 @@
+a financial institution that safely holds money, facilitates payments, and provides loans, acting as an intermediary between savers and borrowers, offering services like savings/checking accounts, credit cards, mortgages, and wealth management to individuals and businesses
