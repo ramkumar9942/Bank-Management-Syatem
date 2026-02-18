@@ -1,4 +1,4 @@
-Bank management system
+Account and Transaction Management System
 ----------------------
 
 
